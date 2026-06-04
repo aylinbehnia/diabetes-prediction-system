@@ -1,0 +1,39 @@
+# Diabetes Prediction AI System
+
+A complete Machine Learning project for diabetes risk prediction.
+
+## Features
+
+- Data Analysis using NumPy and Pandas
+- Data Visualization using Matplotlib and Seaborn
+- Data Preprocessing
+- Supervised Learning Models:
+  - Decision Tree
+  - Random Forest
+  - Logistic Regression
+  - KNN
+- Model Evaluation
+  - Accuracy
+  - Confusion Matrix
+  - Cross Validation
+- Interactive GUI using Tkinter
+- Risk Dashboard and Medical Report
+- PDF Export
+
+## Dataset
+
+Pima Indians Diabetes Dataset
+
+## Technologies
+
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+Tkinter
+
+## Author
+
+Aylin behnia
